@@ -1,0 +1,31 @@
+.nav {
+    grid-area: n;
+    background-color: gainsboro;
+    padding: 15px;
+  }
+
+.item a {
+      color: #252525;
+      text-decoration: none;
+  }
+
+.item {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.item a.active {
+    color: cornflowerblue
+}
+
+h2 {
+  text-align: center;
+  color: #252525;
+  font-size: 22px;
+  font-weight: 500;
+  margin-top: 30px;
+}
+
+.friends {
+  display:flex;
+}

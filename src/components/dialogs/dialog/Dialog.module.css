@@ -1,0 +1,19 @@
+.dialog {
+    margin-bottom: 10px;
+}
+
+.dialog img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.dialog a.active {
+    color: green;
+}
+
+.dialog a {
+    color: #252525;
+    text-decoration: none;
+    margin-left: 5px;
+}

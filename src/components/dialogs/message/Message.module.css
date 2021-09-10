@@ -1,0 +1,10 @@
+.message {
+    color: rgb(59, 59, 59);
+    margin-bottom: 15px;
+}
+
+.message img {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+}

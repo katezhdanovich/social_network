@@ -1,0 +1,19 @@
+.info {
+    background-color:gainsboro;
+    display: inline-flex;
+  }
+  
+  .info img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .item {
+    color: #252525;
+    margin-bottom: 7px;
+    font-size: 16px;
+  }
+
+  .text {
+    padding: 10px;
+  }
